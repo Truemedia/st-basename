@@ -1,0 +1,26 @@
+{
+  "name": "st-basename",
+  "version": "1.0.0",
+  "description": "Create a basename for file based on the time right now (powered by space time)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/st-basename.git"
+  },
+  "keywords": [
+    "file",
+    "basename",
+    "spacetime",
+    "timestamp",
+    "filename"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/st-basename/issues"
+  },
+  "homepage": "https://github.com/Truemedia/st-basename#readme"
+}
