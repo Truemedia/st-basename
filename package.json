@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Truemedia/st-basename/issues"
   },
-  "homepage": "https://github.com/Truemedia/st-basename#readme"
+  "homepage": "https://github.com/Truemedia/st-basename#readme",
+  "dependencies": {
+    "spacetime": "^5.4.0"
+  }
 }
