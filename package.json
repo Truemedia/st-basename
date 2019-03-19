@@ -1,6 +1,6 @@
 {
   "name": "st-basename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a basename for file based on the time right now (powered by space time)",
   "main": "src/index.js",
   "scripts": {
